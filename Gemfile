@@ -18,7 +18,7 @@ gem 'less-rails'
 #twitter-bootstrap para aplicação do layout nas views
 gem 'twitter-bootstrap-rails'
 #gem para login
-gem 'devise', '2.0.0'
+gem 'devise'
 #gem do amazon web service para rodar na aplicação
 gem 'aws-sdk', '~> 2'
 # Use jquery as the JavaScript library
